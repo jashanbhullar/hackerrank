@@ -1,1 +1,1 @@
-This is personal HackerRank repo
+Just something i do!
