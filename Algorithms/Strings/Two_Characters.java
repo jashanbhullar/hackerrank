@@ -17,7 +17,6 @@ class Solution
 		String str = in.readLine();
 		Pattern pt = Pattern.compile("([a-z])\\1");
 		Matcher mt = pt.matcher(str);
-
 		HashSet<String> hs = new HashSet<>();
 		while(mt.find())
 			hs.add(mt.group(1));
