@@ -8,6 +8,5 @@ class Solution
 	public static void main(String ... ags)throws IOException
 	{
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-		
 	}
 }
