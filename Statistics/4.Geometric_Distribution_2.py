@@ -1,0 +1,1 @@
+print(round(1-pow(2/3,5),3))
