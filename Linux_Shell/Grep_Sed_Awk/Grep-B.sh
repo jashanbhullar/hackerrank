@@ -1,0 +1,1 @@
+grep -P '([0-9])\s?\1' /dev/stdin
