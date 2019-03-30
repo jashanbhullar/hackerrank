@@ -1,3 +1,1 @@
-Just something i do!
-Some algorithms and data structures.
-Always learn your basics.
+Understanding the basics of coding. Fun to solve problems.
